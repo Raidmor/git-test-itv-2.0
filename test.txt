@@ -1,2 +1,4 @@
 
 Commit v hlavní větvi
+commit v hlavní větvi
+commit ve větvi branch
